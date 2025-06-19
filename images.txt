@@ -19,5 +19,6 @@ nacos/nacos-server:v3.0.1
 onlyoffice/documentserver:9.0
 guanyueyun/ooffice:8.2.0.1
 guanyueyun/ooffice:7.1.1.23
+onlyoffice/communityserver:12.7.1.1942
 
 
