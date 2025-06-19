@@ -17,5 +17,7 @@ redis:7.4.1
 #docker.n8n.io/n8nio/n8n:latest
 nacos/nacos-server:v3.0.1
 onlyoffice/documentserver:9.0
+guanyueyun/ooffice:8.2.0.1
+guanyueyun/ooffice:7.1.1.23
 
 
