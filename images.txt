@@ -22,4 +22,4 @@ guanyueyun/ooffice:7.1.1.23
 onlyoffice/communityserver:12.7.1.1942
 jenkins/jenkins:lts-alpine
 registry.cn-hangzhou.aliyuncs.com/mirrors/maven:3.8.8-openjdk-8
-
+docker.io/maven:3.8-openjdk-8
