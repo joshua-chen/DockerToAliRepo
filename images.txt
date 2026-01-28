@@ -21,5 +21,5 @@ guanyueyun/ooffice:8.2.0.1
 guanyueyun/ooffice:7.1.1.23
 onlyoffice/communityserver:12.7.1.1942
 jenkins/jenkins:lts-alpine
-docker.io/maven:3.8-openjdk-8
+maven:3.8-openjdk-8
 openjdk:8-jre-alpine
